@@ -12,6 +12,7 @@ This repository contains instructions on how to set up and run Playwright tests 
 1. **Clone repository and navigate there:**
 
 git clone https://github.com/ligob1/sample-auth.git
+
 cd sample-auth
 
 2. **Install Dependencies:**
